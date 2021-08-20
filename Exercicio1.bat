@@ -26,6 +26,7 @@ md "America-MG"
 md "Gremio"
 md "Chapecoense"
 
+cd ..
 cd "Serie B"
 
 md "Coritiba"
