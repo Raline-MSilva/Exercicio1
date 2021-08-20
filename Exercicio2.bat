@@ -40,3 +40,10 @@ cd "Sul"
 md "Parana"
 md "Santa Catarina"
 md "Rio Grande do Sul"
+
+cd ..
+cd "Sudeste"
+md "Sao Paulo"
+md "Rio de Janeiro"
+md "Espirito Santo"
+md "Minas Gerais"
